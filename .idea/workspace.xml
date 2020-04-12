@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21e57efd-65a9-40a0-8a02-4cfae4276a63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/GeekBrains_Algorithms_Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz/__MACOSX/geekbrains dz/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz/__MACOSX/geekbrains dz/._shema_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz/__MACOSX/geekbrains dz/._shema_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz/__MACOSX/geekbrains dz/._shema_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz/__MACOSX/geekbrains dz/._shema_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz/geekbrains dz/shema_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz/geekbrains dz/shema_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz/geekbrains dz/shema_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz/geekbrains dz/shema_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz/geekbrains dz/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz/geekbrains dz/task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz/geekbrains dz/task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/geekbrains dz/geekbrains dz/task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/phyton 1.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/phyton 1/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/phyton 1/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/phyton 1/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/phyton 1/zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/phyton 1/zadanie2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/phyton 1/zadanie3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/phyton 1/zadanie4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/phyton 1/zadanie5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/phyton 1/zadanie6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/phyton 1/zadanie7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/phyton 1/zadanie8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/phyton 1/Введение в алгоритмизацию.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/Алгоритмы и структуры данных на Python_Введение.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/Алгоритмы и структуры данных на Python_Введение/zadanie2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/Алгоритмы и структуры данных на Python_Введение/zadanie3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/Алгоритмы и структуры данных на Python_Введение/zadanie4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/Алгоритмы и структуры данных на Python_Введение/zadanie5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/Алгоритмы и структуры данных на Python_Введение/zadanie7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Check/Алгоритмы и структуры данных на Python_Введение/Введение в алгоритмизацию.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/Lesson_1.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/les_1_task_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Lesson2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Lesson2/Les2_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Lesson2/Les2_Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Lesson2/Les2_Task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Lesson2/Les2_Task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Lesson2/Les2_Task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Lesson2/Lesson2_Task1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Lesson2/Lesson2_Task2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Lesson2/Lesson2_Task3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Lesson2/Lesson2_Task4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Lesson2/Lesson2_Task5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/geekbrains 2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/geekbrains 2/__MACOSX/geekbrains 2/._task2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/geekbrains 2/__MACOSX/geekbrains 2/._task3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/geekbrains 2/geekbrains 2/task2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/geekbrains 2/geekbrains 2/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/geekbrains 2/geekbrains 2/task3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/geekbrains 2/geekbrains 2/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/geekbrains 2/geekbrains 2/task4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/geekbrains 2/geekbrains 2/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/geekbrains 2/geekbrains 2/task8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/geekbrains 2/geekbrains 2/task8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Урок 2.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Урок 2/zadanie2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Урок 2/zadanie_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Урок 2/zadanie_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Урок 2/zadanie_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Check/Урок 2/Урок 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Lesson_2.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/les_2_task_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/les_2_task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/les_2_task_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/les_2_task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/les_2_task_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/les_2_task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/les_2_task_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/les_2_task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/les_2_task_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/les_2_task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/Lesson3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/Lesson3/zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/Lesson3/zadanie2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/Lesson3/zadanie3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/Lesson3/zadanie5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/Lesson3/zadanie6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/__MACOSX/geekbrains 3/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/__MACOSX/geekbrains 3/._task2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/__MACOSX/geekbrains 3/._task5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/__MACOSX/geekbrains 3/._task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/geekbrains 3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/geekbrains 3/task2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/geekbrains 3/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/geekbrains 3/task3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/geekbrains 3/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/geekbrains 3/task4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/geekbrains 3/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/geekbrains 3/task5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/geekbrains 3/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/geekbrains 3/task6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/geekbrains 3/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/hw_nekrasov_lesson_3.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/hw_nekrasov_lesson_3/les_3_task_1_nek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/hw_nekrasov_lesson_3/les_3_task_2_nek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/hw_nekrasov_lesson_3/les_3_task_3_nek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/hw_nekrasov_lesson_3/les_3_task_4_nek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Check/hw_nekrasov_lesson_3/les_3_task_5_nek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Lesson_3.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/les_3_task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/les_3_task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/les_3_task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/les_3_task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/les_3_task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/les_3_task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/les_3_task_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/les_3_task_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/.idea/Lesson_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Check/HomeTask01_04.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Check/HomeTask01_04/les4_task01.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Check/HomeTask01_04/les4_task01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Check/HomeTask01_04/les4_task02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Check/les4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Check/les4/Curs4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Check/les4/Curs4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Check/main_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Lesson_4.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/les_4_task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/les_4_task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_5/Check/5.1_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_5/Check/Les_5_Task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_5/Check/task_5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_5/Lesson_5.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_5/les_5_task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_5/les_5_task_2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZRJZVPLCVkx1gjHPH4AVrRwlHl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.5.1_">
+    <configuration name="5.1_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekBrains_Algorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_5/Проверка" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_5/Проверка/5.1_.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Les_5_Task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekBrains_Algorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_5/Проверка" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_5/Проверка/Les_5_Task_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="les_5_task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekBrains_Algorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_5/les_5_task_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="les_5_task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekBrains_Algorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_5/les_5_task_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_5_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekBrains_Algorithms_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_5/Проверка" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_5/Проверка/task_5_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.5.1_" />
+        <item itemvalue="Python.Les_5_Task_1" />
+        <item itemvalue="Python.task_5_1" />
+        <item itemvalue="Python.les_5_task_2" />
+        <item itemvalue="Python.les_5_task_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21e57efd-65a9-40a0-8a02-4cfae4276a63" name="Default Changelist" comment="" />
+      <created>1584796028914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584796028914</updated>
+      <workItem from="1584796030271" duration="688000" />
+      <workItem from="1584873608374" duration="11959000" />
+      <workItem from="1584951050214" duration="15348000" />
+      <workItem from="1585162686088" duration="7780000" />
+      <workItem from="1585208362358" duration="2349000" />
+      <workItem from="1585295755734" duration="1257000" />
+      <workItem from="1585486871058" duration="3457000" />
+      <workItem from="1585559444621" duration="6559000" />
+      <workItem from="1585731130931" duration="1447000" />
+      <workItem from="1585811688536" duration="610000" />
+      <workItem from="1585939303626" duration="15692000" />
+      <workItem from="1585985444423" duration="3480000" />
+      <workItem from="1586276436221" duration="11390000" />
+      <workItem from="1586691289440" duration="250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1586691520328">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/3640.371.1920.1040/0.0.2560.1400/2560.-186.1080.1880@0.0.2560.1400" timestamp="1585295812490" />
+    <state x="1060" y="455" key="FileChooserDialogImpl/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1585731387484" />
+    <state x="1060" y="455" key="FileChooserDialogImpl/3640.597.1920.1040/2560.-240.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1586691520328" />
+    <state x="1114" y="616" width="356" height="167" key="Github.CreateGistDialog" timestamp="1586691410438">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1114" y="616" width="356" height="167" key="Github.CreateGistDialog/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1585731194195" />
+    <state x="1114" y="616" width="356" height="167" key="Github.CreateGistDialog/3640.597.1920.1040/2560.-240.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1586691410438" />
+    <state width="2532" height="498" key="GridCell.Tab.0.bottom" timestamp="1586288051108">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2532" height="498" key="GridCell.Tab.0.bottom/3640.135.1920.1040/2560.144.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1586288051108" />
+    <state width="2517" height="565" key="GridCell.Tab.0.bottom/3640.371.1920.1040/0.0.2560.1400/2560.-186.1080.1880@0.0.2560.1400" timestamp="1585210722357" />
+    <state width="1876" height="565" key="GridCell.Tab.0.bottom/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1585568041535" />
+    <state width="1037" height="401" key="GridCell.Tab.0.bottom/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@2560.-186.1080.1880" timestamp="1584983886808" />
+    <state width="1877" height="401" key="GridCell.Tab.0.bottom/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@3640.371.1920.1040" timestamp="1584989262936" />
+    <state width="2517" height="307" key="GridCell.Tab.0.bottom/4480.135.1920.1040/2560.144.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1585988277861" />
+    <state width="1877" height="307" key="GridCell.Tab.0.bottom/4480.135.1920.1040/2560.144.1920.1040/0.0.2560.1400@2560.144.1920.1040" timestamp="1585945056699" />
+    <state width="2532" height="498" key="GridCell.Tab.0.center" timestamp="1586288051108">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2532" height="498" key="GridCell.Tab.0.center/3640.135.1920.1040/2560.144.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1586288051108" />
+    <state width="2517" height="565" key="GridCell.Tab.0.center/3640.371.1920.1040/0.0.2560.1400/2560.-186.1080.1880@0.0.2560.1400" timestamp="1585210722357" />
+    <state width="1876" height="565" key="GridCell.Tab.0.center/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1585568041534" />
+    <state width="1037" height="401" key="GridCell.Tab.0.center/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@2560.-186.1080.1880" timestamp="1584983886808" />
+    <state width="1877" height="401" key="GridCell.Tab.0.center/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@3640.371.1920.1040" timestamp="1584989262936" />
+    <state width="2517" height="307" key="GridCell.Tab.0.center/4480.135.1920.1040/2560.144.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1585988277861" />
+    <state width="1877" height="307" key="GridCell.Tab.0.center/4480.135.1920.1040/2560.144.1920.1040/0.0.2560.1400@2560.144.1920.1040" timestamp="1585945056699" />
+    <state width="2532" height="498" key="GridCell.Tab.0.left" timestamp="1586288051108">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2532" height="498" key="GridCell.Tab.0.left/3640.135.1920.1040/2560.144.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1586288051108" />
+    <state width="2517" height="565" key="GridCell.Tab.0.left/3640.371.1920.1040/0.0.2560.1400/2560.-186.1080.1880@0.0.2560.1400" timestamp="1585210722357" />
+    <state width="1876" height="565" key="GridCell.Tab.0.left/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1585568041534" />
+    <state width="1037" height="401" key="GridCell.Tab.0.left/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@2560.-186.1080.1880" timestamp="1584983886808" />
+    <state width="1877" height="401" key="GridCell.Tab.0.left/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@3640.371.1920.1040" timestamp="1584989262936" />
+    <state width="2517" height="307" key="GridCell.Tab.0.left/4480.135.1920.1040/2560.144.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1585988277861" />
+    <state width="1877" height="307" key="GridCell.Tab.0.left/4480.135.1920.1040/2560.144.1920.1040/0.0.2560.1400@2560.144.1920.1040" timestamp="1585945056699" />
+    <state width="2532" height="498" key="GridCell.Tab.0.right" timestamp="1586288051108">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2532" height="498" key="GridCell.Tab.0.right/3640.135.1920.1040/2560.144.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1586288051108" />
+    <state width="2517" height="565" key="GridCell.Tab.0.right/3640.371.1920.1040/0.0.2560.1400/2560.-186.1080.1880@0.0.2560.1400" timestamp="1585210722357" />
+    <state width="1876" height="565" key="GridCell.Tab.0.right/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1585568041534" />
+    <state width="1037" height="401" key="GridCell.Tab.0.right/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@2560.-186.1080.1880" timestamp="1584983886808" />
+    <state width="1877" height="401" key="GridCell.Tab.0.right/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@3640.371.1920.1040" timestamp="1584989262936" />
+    <state width="2517" height="307" key="GridCell.Tab.0.right/4480.135.1920.1040/2560.144.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1585988277861" />
+    <state width="1877" height="307" key="GridCell.Tab.0.right/4480.135.1920.1040/2560.144.1920.1040/0.0.2560.1400@2560.144.1920.1040" timestamp="1585945056699" />
+    <state width="2532" height="498" key="GridCell.Tab.1.bottom" timestamp="1586288051108">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2532" height="498" key="GridCell.Tab.1.bottom/3640.135.1920.1040/2560.144.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1586288051108" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1585488658251" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/4480.135.1920.1040/2560.144.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1585956277641" />
+    <state width="2532" height="498" key="GridCell.Tab.1.center" timestamp="1586288051108">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2532" height="498" key="GridCell.Tab.1.center/3640.135.1920.1040/2560.144.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1586288051108" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1585488658251" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center/4480.135.1920.1040/2560.144.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1585956277641" />
+    <state width="2532" height="498" key="GridCell.Tab.1.left" timestamp="1586288051108">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2532" height="498" key="GridCell.Tab.1.left/3640.135.1920.1040/2560.144.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1586288051108" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1585488658250" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left/4480.135.1920.1040/2560.144.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1585956277641" />
+    <state width="2532" height="498" key="GridCell.Tab.1.right" timestamp="1586288051108">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2532" height="498" key="GridCell.Tab.1.right/3640.135.1920.1040/2560.144.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1586288051108" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1585488658251" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right/4480.135.1920.1040/2560.144.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1585956277641" />
+    <state x="975" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1586276543300">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="975" y="524" key="com.intellij.ide.util.TipDialog/3640.135.1920.1040/2560.144.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1586276543300" />
+    <state x="975" y="524" key="com.intellij.ide.util.TipDialog/3640.371.1920.1040/0.0.2560.1400/2560.-186.1080.1880@0.0.2560.1400" timestamp="1585295760044" />
+    <state x="975" y="524" key="com.intellij.ide.util.TipDialog/3640.371.1920.1040/2560.-186.1080.1880/0.0.2560.1400@0.0.2560.1400" timestamp="1585559472686" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_3_task_1_nek.coverage" NAME="les_3_task_1_nek Coverage Results" MODIFIED="1585566073360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/hw_nekrasov_lesson_3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$task_6.coverage" NAME="task_6 Coverage Results" MODIFIED="1584983532803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_1/Проверка/geekbrains dz/geekbrains dz" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_3_task_3_nek.coverage" NAME="les_3_task_3_nek Coverage Results" MODIFIED="1585566387731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/hw_nekrasov_lesson_3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$task6.coverage" NAME="task6 Coverage Results" MODIFIED="1585564861456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/geekbrains 3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$Curs4_2.coverage" NAME="Curs4.2 Coverage Results" MODIFIED="1585987848776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_4/Проверка/les4" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$Les2_Task4.coverage" NAME="Les2_Task4 Coverage Results" MODIFIED="1585210421121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2/Проверка/Lesson2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$draft.coverage" NAME="draft Coverage Results" MODIFIED="1585986886340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_4" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$zadanie4.coverage" NAME="zadanie4 Coverage Results" MODIFIED="1584984206625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_1/Проверка/phyton 1" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_3_task_5_nek.coverage" NAME="les_3_task_5_nek Coverage Results" MODIFIED="1585566566401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/hw_nekrasov_lesson_3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algorithms_Python$task_5_1.coverage" NAME="task_5_1 Coverage Results" MODIFIED="1586286465116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_5/Проверка" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$zadanie1.coverage" NAME="zadanie1 Coverage Results" MODIFIED="1585559545724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/Lesson3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_2_task_4.coverage" NAME="les_2_task_4 Coverage Results" MODIFIED="1585171975944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algorithms_Python$Les_5_Task_1.coverage" NAME="Les_5_Task_1 Coverage Results" MODIFIED="1586287267427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_5/Проверка" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_1_task_2.coverage" NAME="les_1_task_2 Coverage Results" MODIFIED="1584901457023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_1" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$Curs4_1.coverage" NAME="Curs4.1 Coverage Results" MODIFIED="1585987773067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_4/Проверка/les4" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_4_task_2.coverage" NAME="les_4_task_2 Coverage Results" MODIFIED="1585986724587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_4" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_1_task_3.coverage" NAME="les_1_task_3 Coverage Results" MODIFIED="1584977750404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_1" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$Les2_Task1.coverage" NAME="Les2_Task1 Coverage Results" MODIFIED="1585210053192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2/Проверка/Lesson2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_3_task_6.coverage" NAME="les_3_task_6 Coverage Results" MODIFIED="1585488245974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_3_task_1.coverage" NAME="les_3_task_1 Coverage Results" MODIFIED="1585566052208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_1_task_8.coverage" NAME="les_1_task_8 Coverage Results" MODIFIED="1584982324157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_1" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$zadanie2.coverage" NAME="zadanie2 Coverage Results" MODIFIED="1585559649354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/Lesson3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_2_task_3.coverage" NAME="les_2_task_3 Coverage Results" MODIFIED="1585171713243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_1_task_7.coverage" NAME="les_1_task_7 Coverage Results" MODIFIED="1584981503724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_1" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_3_task_2.coverage" NAME="les_3_task_2 Coverage Results" MODIFIED="1585487229647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_2_task_6.coverage" NAME="les_2_task_6 Coverage Results" MODIFIED="1585172294866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_3_task_2_nek.coverage" NAME="les_3_task_2_nek Coverage Results" MODIFIED="1585566299389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/hw_nekrasov_lesson_3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_1_task_1.coverage" NAME="les_1_task_1 Coverage Results" MODIFIED="1584899006006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_1" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$zadanie_1.coverage" NAME="zadanie_1 Coverage Results" MODIFIED="1585209060501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2/New folder/Урок 2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_3_task_8.coverage" NAME="les_3_task_8 Coverage Results" MODIFIED="1585488887211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_4_task_1.coverage" NAME="les_4_task_1 Coverage Results" MODIFIED="1585945056689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_4" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_3_task_4_nek.coverage" NAME="les_3_task_4_nek Coverage Results" MODIFIED="1585566477856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/hw_nekrasov_lesson_3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$task5.coverage" NAME="task5 Coverage Results" MODIFIED="1585564803957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/geekbrains 3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$zadanie_4.coverage" NAME="zadanie_4 Coverage Results" MODIFIED="1585209579461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2/New folder/Урок 2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1585564442849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/geekbrains 3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$main_file.coverage" NAME="main_file Coverage Results" MODIFIED="1585988005393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_4/Проверка" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$Les2_Task5.coverage" NAME="Les2_Task5 Coverage Results" MODIFIED="1585210512376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2/Проверка/Lesson2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$lest_3_task_7.coverage" NAME="lest_3_task_7 Coverage Results" MODIFIED="1585488396399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$zadanie3.coverage" NAME="zadanie3 Coverage Results" MODIFIED="1585561467613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/Lesson3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$zadanie6.coverage" NAME="zadanie6 Coverage Results" MODIFIED="1585562094671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/Lesson3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$task_2.coverage" NAME="task_2 Coverage Results" MODIFIED="1584982816064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_1/Проверка/geekbrains dz/geekbrains dz" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$task_5.coverage" NAME="task_5 Coverage Results" MODIFIED="1584983337202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_1/Проверка/geekbrains dz/geekbrains dz" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$Les2_Task2.coverage" NAME="Les2_Task2 Coverage Results" MODIFIED="1585210160068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2/Проверка/Lesson2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_1_task_4.coverage" NAME="les_1_task_4 Coverage Results" MODIFIED="1584978275589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_1" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$task4.coverage" NAME="task4 Coverage Results" MODIFIED="1585564562500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/geekbrains 3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$Les2_Task3.coverage" NAME="Les2_Task3 Coverage Results" MODIFIED="1585210304391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2/Проверка/Lesson2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_4_task_5.coverage" NAME="les_4_task_5 Coverage Results" MODIFIED="1585488014803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$zadanie_3.coverage" NAME="zadanie_3 Coverage Results" MODIFIED="1585209492614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2/New folder/Урок 2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$zadanie5.coverage" NAME="zadanie5 Coverage Results" MODIFIED="1585561817508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/Lesson3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_3_task_3.coverage" NAME="les_3_task_3 Coverage Results" MODIFIED="1585487635589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_2_task_1.coverage" NAME="les_2_task_1 Coverage Results" MODIFIED="1585170831180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_5_task_1.coverage" NAME="les_5_task_1 Coverage Results" MODIFIED="1586276680345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_5" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_1_task_6.coverage" NAME="les_1_task_6 Coverage Results" MODIFIED="1584979118088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_1" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_5_task_2.coverage" NAME="les_5_task_2 Coverage Results" MODIFIED="1586286053601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_5" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$task_4.coverage" NAME="task_4 Coverage Results" MODIFIED="1584983320432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_1/Проверка/geekbrains dz/geekbrains dz" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_1_task_5.coverage" NAME="les_1_task_5 Coverage Results" MODIFIED="1584978953246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_1" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_2_task_2.coverage" NAME="les_2_task_2 Coverage Results" MODIFIED="1585171457689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_3_task_4.coverage" NAME="les_3_task_4 Coverage Results" MODIFIED="1585487888218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$task8.coverage" NAME="task8 Coverage Results" MODIFIED="1585208745256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2/Проверка/geekbrains 2/geekbrains 2" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algorithms_Python$5_1_.coverage" NAME="5.1_ Coverage Results" MODIFIED="1586287816111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_5/Проверка" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1585564477123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_3/Проверка/geekbrains 3" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les4_task02.coverage" NAME="les4_task02 Coverage Results" MODIFIED="1585988277849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_4/Проверка/HomeTask01_04" />
+    <SUITE FILE_PATH="coverage/GeekBrains_Algoritms_Python$les_2_task_7.coverage" NAME="les_2_task_7 Coverage Results" MODIFIED="1585167370610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson_2" />
+  </component>
+</project>
