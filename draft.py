@@ -1,31 +1,40 @@
-n = int(input('Введите кол-во предприятий: '))
+from random import uniform
 
-comp_dict = {}
-all_sum = 0
 
-for _ in range(n):
-    inp = input('Введите имя предприятия и прибыль за 4 квартала через пробел:\n').split(' ')
-    comp_dict[inp[0]] = int(inp[1]) + int(inp[2]) + int(inp[3]) + int(inp[4])
-    all_sum += int(inp[1]) + int(inp[2]) + int(inp[3]) + int(inp[4])
+n = 10
+array = [uniform(0, 49) for _ in range(n)]
+print(f'Изначальный массив - {array}')
 
-avg = all_sum / n
 
-for name, profit in comp_dict.items():
-    if profit >= avg:
-        comp_dict[f'above_{name}'] = comp_dict.pop(name)
+def sort_merge(array):
+    if len(array) <= 1:
+        return array[:]
     else:
-        comp_dict[f'below_{name}'] = comp_dict.pop(name)
+        mid = len(array) // 2
+        left = sort_merge(array[:mid])
+        right = sort_merge(array[mid:])
 
-print(f'Средняя прибыль за год всех предприятий - {avg}')
-print('Предприятия с прибылью выше или равное среднему:')
+        return merge(left, right)
 
-for name, profit in comp_dict.items():
-    if name.startswith('above'):
-        print(f'{name[6:]} - годовая прибыль {profit}')
 
-print('Предприятия с прибылью ниже среднего:')
+def merge(left, right):
+    result = []
+    i = 0
+    j = 0
+    while i < len(left) and j < len(right):
+        if left[i] <= right[j]:
+            result.append(left[i])
+            i += 1
+        else:
+            result.append(right[j])
+            j += 1
+    while i < len(left):
+        result.append(left[i])
+        i += 1
+    while j < len(right):
+        result.append(right[j])
+        j += 1
+    return result
 
-for name, profit in comp_dict.items():
-    if name.startswith('below'):
-        print(f'{name[6:]} - годовая прибыль {profit}')
 
+print(f'Отсортированный массив - {sort_merge(array)}')
