@@ -8,7 +8,7 @@ from random import uniform
 
 
 n = 10
-array = [uniform(0, 49) for _ in range(n)]
+array = [uniform(0, 50) for _ in range(n)]
 print(f'Изначальный массив - {array}')
 
 
