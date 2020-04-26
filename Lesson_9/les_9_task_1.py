@@ -8,15 +8,16 @@
 - задача считается решённой, если в коде использована функция вычисления хеша
 (hash(), sha1() или любая другая из модуля hashlib)
 """
-import hashlib
+from hashlib import sha1
 
 
 def func(s):
     len_ = len(s)
     hash_set = set()
     for i in range(len_):
-        for j in range(i, len_):
-            hash_set.add(hashlib.sha1(s[i:j].encode('utf-8')).hexdigest())
+        for j in range(i, len_+1):
+            if s[i:j] and s[i:j] != s:
+                hash_set.add(sha1(s[i:j].encode('utf-8')).hexdigest())
 
     return len(hash_set)
 
